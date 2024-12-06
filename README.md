@@ -28,6 +28,7 @@ This repository contains the code and data used in the paper "**Beaching model f
     cd davidson-et-al-2023-code
     ```
 3. **Run the MATLAB scripts**:
+   
     Open MATLAB and run the desired `figure#.m` script to generate the corresponding figure.
 
 ## Requirements
