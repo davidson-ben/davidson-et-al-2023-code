@@ -13,7 +13,7 @@ This repository contains the code and data used in the paper "**Beaching model f
 
 -**swashinertialparticle_ode.m**: The inertial particle acceleration function which is integrated to solve for the particle velocity and position.
 
--**swashinertialparticle_int.m**: Function that sets up the integration of **swashinertialparticle_ode**.
+-**swashinertialparticle_int.m**: Function that sets up the integration of **swashinertialparticle_ode.m**.
 
 -**LICENSE**: MIT License details.
 
